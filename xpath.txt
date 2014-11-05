@@ -1,0 +1,5 @@
+1)count(//student[@course=1])
+2)count(//faculty)
+3)count(//student[contains(@name,'Ivanov')])
+4)count(//faculty[count(//student)>= 2])
+5)count(//student[@course='1' and @group='2' and mark/@value > 9])
