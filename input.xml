@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<students>
+    <faculty name="mmf">
+        <student name="Ivanov" course="1" group="9">
+            <mark value="8"/>
+        </student>
+        <student name="Petrov" course="3" group="2">
+            <mark value="10"/>
+        </student>
+        <student name="Sidorov" course="4" group="2">
+            <mark value="9"/>
+        </student>
+    </faculty>
+    <faculty name="filfak">
+        <student name="Ivanova" course="2" group="9">
+            <mark value="10"/>
+        </student>
+        <student name="Petrova" course="1" group="2">
+            <mark value="9"/>
+        </student>
+    </faculty>
+</students>
